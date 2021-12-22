@@ -1,0 +1,3 @@
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/cmake-build-debug/CMakeFiles/Contorno.dir
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/cmake-build-debug/CMakeFiles/rebuild_cache.dir

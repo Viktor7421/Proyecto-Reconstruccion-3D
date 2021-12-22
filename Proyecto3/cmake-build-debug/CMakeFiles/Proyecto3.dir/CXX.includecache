@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Proyecto3/main.cpp
+glad/glad.h
+-
+GLFW/glfw3.h
+-
+stb_image.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Proyecto3/stb_image.h
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+glm/gtc/type_ptr.hpp
+-
+shader_m.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Proyecto3/shader_m.h
+iostream
+-
+fstream
+-
+
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Proyecto3/shader_m.h
+glad/glad.h
+-
+glm/glm.hpp
+-
+string
+-
+fstream
+-
+sstream
+-
+iostream
+-
+
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Proyecto3/stb_image.h
+stb_image.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Proyecto3/stb_image.h
+stdio.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+

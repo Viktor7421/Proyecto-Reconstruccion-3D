@@ -1,0 +1,128 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/CImg.h
+cstdio
+-
+cstdlib
+-
+cstdarg
+-
+cstring
+-
+cmath
+-
+cfloat
+-
+climits
+-
+ctime
+-
+exception
+-
+algorithm
+-
+stdio.h
+-
+sys/types.h
+-
+sys/time.h
+-
+sys/stat.h
+-
+unistd.h
+-
+dirent.h
+-
+fnmatch.h
+-
+windows.h
+-
+shlobj.h
+-
+process.h
+-
+io.h
+-
+initializer_list
+-
+utility
+-
+omp.h
+-
+X11/Xlib.h
+-
+X11/Xutil.h
+-
+X11/keysym.h
+-
+pthread.h
+-
+sys/ipc.h
+-
+sys/shm.h
+-
+X11/extensions/XShm.h
+-
+X11/extensions/Xrandr.h
+-
+cstddef
+-
+opencv2/opencv.hpp
+-
+png.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/png.h
+jpeglib.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/jpeglib.h
+setjmp.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/setjmp.h
+tiffio.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/tiffio.h
+libheif/heif_cxx.h
+-
+minc_io_simple_volume.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/minc_io_simple_volume.h
+minc_1_simple.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/minc_1_simple.h
+minc_1_simple_rw.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/minc_1_simple_rw.h
+zlib.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/zlib.h
+curl/curl.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/curl/curl.h
+Magick++.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/Magick++.h
+fftw3.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/fftw3.h
+Board.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/Board.h
+ImfRgbaFile.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/ImfRgbaFile.h
+ImfInputFile.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/ImfInputFile.h
+ImfChannelList.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/ImfChannelList.h
+ImfMatrixAttribute.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/ImfMatrixAttribute.h
+ImfArray.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/ImfArray.h
+tinyexr.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/tinyexr.h
+CImg.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/CImg.h
+
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+CImg.h
+C:/Users/VICTOR/Documents/UTEC/Ciclo 8/Computacion Grafica/Contorno/CImg.h
+
